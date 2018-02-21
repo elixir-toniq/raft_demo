@@ -1,0 +1,4 @@
+%{"gen_state_machine": {:hex, :gen_state_machine, "2.0.1", "85efd5a0376929c3a4246dd943e17564a2908c7ddd7acd242d84594e785d83f8", [], [], "hexpm"},
+  "raft": {:hex, :raft, "0.2.0", "828a861bf8934388d24a082998390cf8eef849d1df5ad03f29c3733c9ffc437c", [], [{:gen_state_machine, "~> 2.0", [hex: :gen_state_machine, repo: "hexpm", optional: false]}, {:rocksdb, "~> 0.13.1", [hex: :rocksdb, repo: "hexpm", optional: false]}, {:uuid, "~> 1.1", [hex: :uuid, repo: "hexpm", optional: false]}], "hexpm"},
+  "rocksdb": {:hex, :rocksdb, "0.13.1", "14baf1c240f4a678fa4cb0bf624016d5d12a4a0e3f09b8f52924abdce31fbd66", [], [], "hexpm"},
+  "uuid": {:hex, :uuid, "1.1.8", "e22fc04499de0de3ed1116b770c7737779f226ceefa0badb3592e64d5cfb4eb9", [], [], "hexpm"}}
